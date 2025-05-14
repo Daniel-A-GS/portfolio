@@ -1,5 +1,4 @@
 # Daniel Alfredo García Sánchez
-![Mi foto](https://github.com/Daniel-A-GS.png)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=525533129095) | 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daniel.alfredo.gs@gmail.com) | 
